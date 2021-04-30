@@ -1,2 +1,2 @@
 # pyc
-РПСС.РУС сайт
+RPSS-PYC site
